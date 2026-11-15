@@ -1,0 +1,1 @@
+This folder contains three sample programs written in the Citu programming language. These programs demonstrate different language features, including variable declarations, arithmetic expressions, conditional statements, loops, and other supported constructs.
