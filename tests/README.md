@@ -1,0 +1,1 @@
+This folder contains test cases used to verify the functionality of the Citu Language Compiler. It is intended for testing lexical analysis, syntax validation, semantic checks, and other compiler components.
