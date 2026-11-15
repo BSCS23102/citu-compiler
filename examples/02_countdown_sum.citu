@@ -1,0 +1,9 @@
+int32 n
+int32 sum
+n medalo 5
+sum medalo 0
+jabtak (n)
+shuru
+    sum medalo sum + n
+    n medalo n - 1
+khtm

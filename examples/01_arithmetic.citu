@@ -1,0 +1,10 @@
+int16 a
+int32 b
+uint16 c
+uint32 d
+char ch
+a medalo 12
+b medalo 5
+c medalo (a + b) * 2
+d medalo c * c - b / 5
+ch medalo 'A'

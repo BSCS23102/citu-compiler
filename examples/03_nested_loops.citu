@@ -1,0 +1,15 @@
+int32 i
+int32 j
+int32 total
+total medalo 0
+i medalo 3
+jabtak (i)
+shuru
+    j medalo 3
+    jabtak (j)
+    shuru
+        total medalo total + i * j
+        j medalo j - 1
+    khtm
+    i medalo i - 1
+khtm
